@@ -8,3 +8,12 @@ git commit --amend --reset-author   (enter vim to edit last commit -m title)
 :w save
 :x save and exit
 :q quit
+
+
+
+Remote Git push.
+
+              
+Remote add origin xy.git    (Repository to push to)
+
+git push -u origin master    (Push to repository)
