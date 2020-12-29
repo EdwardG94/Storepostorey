@@ -1,3 +1,10 @@
 The creation of this document is the first step in the process to discover the information which it has been created to ultimately contain...
 
-git commit --amend --reset-author   (enter vim to edit commit -m title)
+git config --global --edit          (enter vim to edit per-user configuration file)
+
+
+git commit --amend --reset-author   (enter vim to edit last commit -m title)
+
+:w save
+:x save and exit
+:q quit
